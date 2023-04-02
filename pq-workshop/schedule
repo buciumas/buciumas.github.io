@@ -32,6 +32,10 @@ tr:nth-child(even) {background-color: lightgrey;}
 
 <!--Abstract table!-->
 
+<p>
+  There might still be small changes to the schedule posted below. 
+</p>
+
 <table width="100%" border="1px" cellspacing="0" cellpadding="4px" text-align="left">
 
 
@@ -47,16 +51,16 @@ tr:nth-child(even) {background-color: lightgrey;}
 
 <tr>
   <td width="15%";>10:00am-11:00am</td>
-  <td width="25%";>Solleveld</td>
-  <td width="25%";>M. Gurevich</td>
-  <td width="25%";>Lysenko</td>
+  <td width="25%";><b>Solleveld</b></td>
+  <td width="25%";><b>M. Gurevich</b></td>
+  <td width="25%";><b>Lysenko</b></td>
 </tr>
 
 <tr>
   <td width="15%";>11:10am-12:10pm</td>
-  <td width="25%";>Stokman</td>
-  <td width="25%";>Patnaik</td>
-  <td width="25%";>Dhillon</td>
+  <td width="25%";><b>Stokman</b></td>
+  <td width="25%";><b>TBA</b></td>
+  <td width="25%";><b>Dhillon</b></td>
 </tr>
 
 <tr>
@@ -69,17 +73,17 @@ tr:nth-child(even) {background-color: lightgrey;}
 
 <tr>
   <td width="15%";>1:30pm-2:30pm</td>
-  <td width="25%";>TBA</td>
-  <td width="25%";>N. Gurevich</td>
-  <td width="25%";>Secherre</td>
+  <td width="25%";><b>TBA</b></td>
+  <td width="25%";><b>N. Gurevich</b></td>
+  <td width="25%";><b>S&eacute;cherre</b></td>
 </tr>
 
 
 <tr>
   <td width="15%";>2:40pm-3:40pm</td>
-  <td width="25%";>Puskas</td>
-  <td width="25%";>Buciumas</td>
-  <td width="25%";>Savin</td>
+  <td width="25%";><b>Pusk&aacute;s</b></td>
+  <td width="25%";><b>Buciumas</b></td>
+  <td width="25%";><b>Savin</b></td>
 </tr>
 
 <tr>
@@ -92,20 +96,15 @@ tr:nth-child(even) {background-color: lightgrey;}
 
 <tr>
   <td width="15%";>4:10pm-5:10pm</td>
-  <td width="25%";>Muthiah</td>
+  <td width="25%";><b>Patnaik</b></td>
   <td width="25%";></td>
-  <td width="25%";></td>
+  <td width="25%";><b>Muthiah</b></td>
 </tr>
 
 
 
 </table>
 
-
-
-<hr>
-
-</div>
 
 
 </body>
