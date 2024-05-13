@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="Publications">
+<meta name="keywords" content="Buciumas, Mathematics, math, Representation Theory, Publications">
+<meta name="author" content="Valentin Buciumas">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="stylesheet.css">
+
+<title>Publications</title>
+</head>
+
+
+
+<!--- mathjax code -->
+<script src="https://cdn.jsdelivr.net/npm/mathjs@6.6.4/dist/math.min.js"></script>
+   <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+         tex2jax: {
+            inlineMath: [['$','$'],['\\(','\\)']]
+         }
+      });
+   </script>
+   <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_CHTML">
+   </script>
+<!-- mathjax code end -->
+
+
+<body id="publications">
+<nav>
+<ul>
+  <li style="float:left"><a href="home">Home</a></li>
+  <li style="float:left"><a class="active" href="publications">Publications</a></li>
+  <li style="float:left"><a href="seminars">Conferences & Seminars</a></li>
+  <li style="float:left"><a href="teaching">Teaching</a></li>
+</ul>
+</nav>
+
+<header>
+<h1>Publications and preprints</h1>
+</header>
+
+
+
+
+<section id="publications">
+
+<p>
+ My articles can be found on the <a href="https://arxiv.org/a/buciumas_v_1.html">arxiv</a> and on <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1276114">mathscinet</a>.
+</p>
+
+<p>
+<ol>
+   <li> <i>Metaplectic covers of p-adic groups and quantum groups at roots of unity </i> (with M. Patnaik) <br>
+    Preprint, 
+    arxiv: <a href="https://arxiv.org/abs/2211.03724">2211.03724</a>
+   </li>
+
+   <li> <i> Iwahori-metaplectic duality </i> (with B. Brubaker, D. Gustafsson) <br>
+      Preprint, arxiv: <a href="https://arxiv.org/abs/2112.14670">2112.14670</a>, to appear in J. Lond. Math. Soc.
+   </li>   
+
+   <li> <i> Quasi-solvable lattice models for $Sp_{2n}$ and $SO_{2n+1}$ Demazure atoms and characters </i> (with T. Scrimshaw) <br>
+      Forum Math. Sigma <b>10</b> (2022), Paper No. e53, arxiv: <a href="https://arxiv.org/abs/2101.08907">2101.08907</a>, doi: <a href="https://doi.org/10.1017/fms.2022.49">10.1017/fms.2022.49</a>
+   </li>   
+
+   <li> <i> Metaplectic Iwahori Whittaker functions and supersymmetric lattice models </i> (with B. Brubaker, D. Bump and H. P. Gustafsson) <br>
+      Preprint, arxiv: <a href="https://arxiv.org/abs/2012.15778">2012.15778</a> 
+   </li>   
+
+   <li> <i>Double Grothendieck polynomials and colored lattice models </i> (with T. Scrimshaw) <br> 
+    Int. Math. Res. Not. IMRN(2022), no. <b>10 </b>, 7231–7258. 
+    arxiv: <a href="https://arxiv.org/abs/2007.04533">2007.04533</a>, doi: <a href="https://doi.org/10.1093/imrn/rnaa327">10.1093/imrn/rnaa327</a> <br>
+    a shorter version of this paper appeared in the <a href="https://www.mat.univie.ac.at/~slc/">proceedings</a> of FPSAC 2021.
+   </li>
+
+   <li> <i>Colored five vertex models and  Lascoux polynomials and atoms </i> (with T. Scrimshaw and K. Weber) <br> 
+    J. Lond. Math. Soc. (2) <b>102</b> (2020), no. 3, 1047–1066.
+    arxiv: <a href="https://arxiv.org/abs/1908.07364">1908.07364</a>, doi: <a href="https://doi.org/10.1112/jlms.12347">10.1112/jlms.12347</a> <br>
+    a shorter version of this paper appeared in the <a href="https://www.mat.univie.ac.at/~slc/">proceedings</a> of FPSAC 2020.
+   </li>
+
+   <li> <i>Colored Vertex Models and Iwahori Whittaker Functions </i> (with B. Brubaker, D. Bump and H. P. Gustafsson) <br> 
+    Preprint, 
+    arxiv: <a href="https://arxiv.org/abs/1906.04140">1906.04140</a>, accepted to Selecta Math.
+   </li>
+
+   <li> <i>Polynomial functors and two-parameter quantum symmetric pairs </i> (with H. Ko) <br> 
+    Transform. Groups <b>28</b> (2023), no. 1, 107–149.
+    arxiv: <a href="https://arxiv.org/abs/1904.12851">1904.12851</a>, doi: <a href="https://doi.org/10.1007/s00031-022-09716-w">10.1007/s00031-022-09716-w</a>   
+   </li>
+
+   <li> <i>Colored five-vertex models and Demazure atoms </i> (with B. Brubaker, D. Bump and H. P. Gustafsson) <br> 
+    J. Combin. Theory Ser. A <b>178</b> (2021), Paper No. 105354, 48 pp.
+    arxiv: <a href="https://arxiv.org/abs/1902.01795">1902.01795</a>, doi: <a href="https://doi.org/10.1016/j.jcta.2020.105354">10.1016/j.jcta.2020.105354</a>  
+   </li>
+
+   <li> <i>Vertex operators, solvable lattice models and metaplectic Whittaker functions</i> (with B. Brubaker, D. Bump and H. P. Gustafsson) <br> 
+    Comm. Math. Phys. <b>380</b> (2020), no. 2, 535–579.
+    arxiv: <a href="https://arxiv.org/abs/1806.07776">1806.07776</a>, doi: <a href="https://doi.org/10.1007/s00220-020-03842-w">10.1007/s00220-020-03842-w</a>  
+   </li>
+
+   <li> <i>Duality for metaplectic ice</i> (with B. Brubaker, D. Bump and N. Gray) <br> 
+    Appendix to Commun. Number Theory Phys. <b>13</b> (2019), no. 1, 101-148,  
+    arxiv: <a href="https://arxiv.org/abs/1709.06500">1709.06500</a>, doi: <a href="https://doi.org/10.4310/CNTP.2019.v13.n1.a4">10.4310/CNTP.2019.v13.n1.a4</a>  
+   </li>
+
+   <li> <i>Quantum polynomial functors from $e$-Hecke algebras </i> (with H. Ko) <br> 
+    Math. Z. <b>292</b> (2019), no. 1-2, 1-31, 
+    arxiv: <a href="https://arxiv.org/abs/1708.04315">1708.04315</a>, doi: <a href="https://doi.org/10.1007/s00209-018-2106-1">10.1007/s00209-018-2106-1</a>   
+   </li>
+
+   <li> <i>Hecke modules from metaplectic ice</i> (with B. Brubaker, D. Bump and S. Friedberg) <br> 
+    Selecta Math. (N.S.) <b>24 </b> (2018), no. 3, 2523–2570.    
+    arxiv: <a href="https://arxiv.org/abs/1704.00701">1704.00701</a>, doi: <a href="https://doi.org/10.1007/s00029-017-0372-0">10.1007/s00029-017-0372-0</a>
+   </li>
+
+   <li> <i>A Yang-Baxter equation for metaplectic ice</i> (with B. Brubaker and D. Bump) <br> 
+    Commun. Number Theory Phys. <b>13 </b> (2019), no. 1, 101-148,  
+    arxiv: <a href="https://arxiv.org/abs/1709.06500">1604.02206</a>, doi: <a href="https://doi.org/10.4310/CNTP.2019.v13.n1.a4">10.4310/CNTP.2019.v13.n1.a4</a>   
+   </li>
+
+   <li> <i>Quantum groups obtained from solutions to the parametrized Yang-Baxter equation</i> <br> 
+    Preprint,  
+    arxiv: <a href="https://arxiv.org/abs/1602.04262">1602.04262</a>  
+   </li>
+
+
+</ol> 
+
+
+<br>
+
+
+
+<br>
+
+</p>
+
+
+</body>
+</html>
+
+

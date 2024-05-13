@@ -1,0 +1,106 @@
+body {
+    background-color: lightgrey;
+    margin: 50px;
+    font-size:  1.15em;
+    font-family: Sans-serif, Verdana, Myriad Web, Syntax;
+}
+
+    
+header {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+
+
+
+article p {
+    text-align:justify;
+    padding-left: 20px;
+}
+
+@media screen and (max-width: 800px) {
+    aside#links {
+        width: 85%;
+        padding: 0;
+    }
+}
+
+main {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+main:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+
+img {
+  float: left;
+  margin-right: 20px;
+}
+
+
+/* Lists: this is used only in the publication tab */
+
+
+ol {
+    margin: 5px 40px;
+    padding-top: 15px;
+}
+
+ol li {
+    padding: 7px 0px;
+}
+
+
+/* Navigation bar  */
+
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #65737E;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a, nav .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 14px;
+    text-decoration: none;
+}
+
+nav li a:hover:not(.active), nav .dropdown:hover .dropbtn {
+    background-color: #828E84;
+}
+
+nav .active {
+    background-color: #436175;
+}
+
+
+
+

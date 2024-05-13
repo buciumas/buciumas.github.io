@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="Conferences and Seminars">
+<meta name="keywords" content="Buciumas, Mathematics, math, Representation Theory">
+<meta name="author" content="Valentin Buciumas">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="stylesheet.css">
+
+<title>Conferences and Seminars</title>
+</head>
+
+
+
+<!--- mathjax code -->
+<script src="https://cdn.jsdelivr.net/npm/mathjs@6.6.4/dist/math.min.js"></script>
+   <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+         tex2jax: {
+            inlineMath: [['$','$'],['\\(','\\)']]
+         }
+      });
+   </script>
+   <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_CHTML">
+   </script>
+<!-- mathjax code end -->
+
+
+<body id="seminar">
+<nav>
+<ul>
+  <li style="float:left"><a href="home">Home</a></li>
+  <li style="float:left"><a href="publications">Publications</a></li>
+  <li style="float:left"><a class="active" href="seminars">Conferences & Seminars</a></li>
+  <li style="float:left"><a href="teaching">Teaching</a></li>
+</ul>
+</nav>
+
+<header>
+<h1>Conferences and Seminars</h1>
+</header>
+
+
+
+
+<section id="current" style="font-size:100%">
+
+<p style="line-height:1">
+I am currently organizing the POSTECH-PMI Number Theory Seminar, see <a href="postech-number-theory-seminar/index.html">here</a>.
+</p>
+
+</section>
+
+<hr>
+
+
+<section id="past">
+<p>
+I have previosly (co-)organized the following conferences and seminars:
+
+<ul style="line-height:1.3">
+  <li> In May 2023, I organized a <a href="pq-workshop/index.html">workshop</a> on the representation theory of $p$-adic groups and connections to quantum groups, geometry and combinatorics.</li>
+  <li> Misha Ishachenkov and Jasper Stokman and I organized the <a href="wayta/index.html">WAYTA</a> research seminar at University of Amsterdam during 2021-2022.</li> 
+  <li> Mathieu Dutour and Manish Patnaik and I organized a <a href="gntrt_seminar/index.html">research seminar</a> on geometry, number theory and representation theory at University of Alberta in 2020-2021.</li>
+  <li> With Ole Warnaar, I organized a conference on <a href="integrablesystems2020/index.html">integrable systems</a> in September 2020.</li>
+  <li> Masoud Kamgarpour, Anna Puskas and I organized the <a href="https://sites.google.com/view/mathwise">WiSe learning seminar</a> at University of Queensland in 2020. </li>
+  <li> I organized a learning seminar on <a href="https://sites.google.com/site/valentinbuciumas/home/qft2019-1?authuser=0">integrable lattice models</a> at University of Queensland in 2019.</li>
+  
+</ul> 
+
+
+<br>
+
+
+
+<br>
+
+</p>
+
+
+</body>
+</html>
